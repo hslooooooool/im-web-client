@@ -14,3 +14,6 @@ browserify ReplyBody_pb.js > reply_body_lib.js
 ```
 
 message_lib.js send_body_lib.js reply_body_lib.js 即为js可用文件
+
+## 文档
+- [SDK及DEMO详细](https://github.com/hslooooooool/im-proto)
