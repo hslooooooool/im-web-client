@@ -30,10 +30,6 @@ const MESSAGE = 2;
 const SEND_BODY = 3;
 /**服务端消息回执*/
 const REPLY_BODY = 4;
-/**会话*/
-const SESSION = 5;
-/**Websocket*/
-const WEBSOCKET = 6;
 
 let socket;
 let manualStop = false;
